@@ -1,0 +1,2 @@
+2026-08-24 23:35:58,162 - INFO - Scan started target=http://127.0.0.1:8000/ parameter=id
+2026-08-24 23:36:02,169 - INFO - Scan completed payloads=8 high=0 medium=0 errors=0 duration=4.01s
